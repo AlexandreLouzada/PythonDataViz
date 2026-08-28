@@ -1,0 +1,4 @@
+cliente_id;valor;valor_venda;estado;regiao;categoria;data_hora;email;codigo;status;rascunho;temp;detalhes_json;tags_produtos
+301;520.0;499.0;BA;Nordeste;Roupas;2024-07-10 11:20:00;otavio@gmail.com;PROD-201;Concluído;;0;{"produto":"Calca","marca":"Levis","tamanho":"38"};["Vestuario","Moda"]
+302;1850.0;1790.9;PR;Sul;Eletronicos;2024-08-14 14:10:00;pri_medeiros@outlook.com;PROD-202;Concluído;verificar nota;3;{"produto":"Monitor","marca":"Dell","polegadas":27};["Monitor","Tecnologia"]
+303;1110.0;1080.0;SP;Sudeste;Moveis;2024-09-22 09:35:00;renan@gmail.com;PROD-203;Em andamento;;2;{"produto":"Cadeira Gamer","marca":"CXS","reclinavel":true};["Moveis","Games"]

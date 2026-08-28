@@ -1,0 +1,4 @@
+cliente_id;valor;valor_venda;estado;regiao;categoria;data_hora;email;codigo;status;rascunho;temp;detalhes_json;tags_produtos
+201;750.0;710.5;SP;Sudeste;Eletronicos;2024-01-05 09:00:00;gabriel@gmail.com;PROD-101;Concluído;;0;{"produto":"Tablet","marca":"Samsung","tela":10};["Tablet","Tecnologia"]
+202;300.0;285.0;RS;Sul;Livros;2024-02-12 10:30:00;icaroliveira@outlook.com;PROD-102;Concluído;reembalar;1;{"produto":"Livro","marca":"Rocco","paginas":210};["Livro","Literatura"]
+203;980.0;950.75;MG;Sudeste;Alimentos;2024-03-08 15:45:00;leticia@yahoo.com;PROD-103;Pendente;;2;{"produto":"Cesta Gourmet","marca":"Especiarias","itens":8};["Alimentos","Cesta"]
